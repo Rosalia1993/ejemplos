@@ -8,6 +8,10 @@ h1{
 	 border-color:#e65100  ;
  border-style: solid;/*dashed;*/
  border-width: 5px;
+ border-left-color:#ffeb3b;
+ border-right-color:#ffeb3b;
+ border-top:none;
+ border-bottom-color:green;
 }
 
 .h1Turquesa{
