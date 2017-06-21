@@ -1,0 +1,22 @@
+h1{
+	color:#9c27b0;
+}
+
+#otro{
+
+	color:#6a1b9a ;
+	 border-color:#e65100  ;
+ border-style: solid;/*dashed;*/
+ border-width: 5px;
+}
+
+.h1Turquesa{
+	color:#2e7d32;
+   background-color:#dce775; 
+} 
+
+body{
+	background:url(imagenesCSS/cardumen.jpg);
+	background-repeat:no-repeat; 
+	background-size: cover;
+}
